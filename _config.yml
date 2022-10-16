@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [HHU Swarm Intelligence]
-description: [HHU Swarm is a one in a livetime oportunity for anyone studying at Heinrich Heine University, Germany to participate in a project, that might completely change their way of interacting with knowledge forever.]
+description: [A swarm intelligence based on human participation]
