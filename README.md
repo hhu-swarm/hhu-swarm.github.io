@@ -1,7 +1,3 @@
-# hhu-swarm
-
-HHU Swarm is a one in a livetime oportunity for anyone studying at Heinrich Heine University, Germany to participate in a project, that might completely change their way of interacting with knowledge forever.
-
 ## How does it work
 For anyone, who is confused about the term swarm inteligence: it does not involve hooking up your brain with some suspiciously looking metal objects.
 
