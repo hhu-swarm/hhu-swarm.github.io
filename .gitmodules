@@ -1,0 +1,3 @@
+[submodule "computer-architecture"]
+	path = computer-architecture
+	url = https://github.com/hhu-swarm/computer-architecture
