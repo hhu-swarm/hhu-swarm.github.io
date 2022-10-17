@@ -5,3 +5,5 @@ plugins:
 
 title: [HHU Swarm Intelligence]
 description: [A swarm intelligence based on human participation]
+
+color_scheme: dark
