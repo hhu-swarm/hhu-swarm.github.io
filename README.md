@@ -9,7 +9,7 @@ Every time you solve an equiasion or puzzle or any other computationally effortf
 Knowledge is obtained, whenever a human beeing learns a new thing. This knowledge might be of many different kinds like:
 - practical (e.g. how to code)
 - theoretical (how do binary trees work)
-- methodically (how to read a book effectivly)
+- methodically (how to read a book effectively)
 
 Imagine a place, where humans contribute to a central repository of knowledge that is publicly available? Imagine beeing part of a community of humans, who build this central repository from scratch. Imagine learning how to use several technologies in the process.
 
