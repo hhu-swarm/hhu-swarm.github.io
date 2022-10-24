@@ -11,9 +11,6 @@ Knowledge is obtained, whenever a human beeing learns a new thing. This knowledg
 - theoretical (how do binary trees work)
 - methodically (how to read a book effectivly)
 
-Usually every single human has to search through old books, spend multiple hundred/thousand hours of trying to understand new things or research the web for many hours at a time. 
-Unfortunately this results in a total populations very slow learning speed.
-
 Imagine a place, where humans contribute to a central repository of knowledge that is publicly available? Imagine beeing part of a community of humans, who build this central repository from scratch. Imagine learning how to use several technologies in the process.
 
 ## Justification
